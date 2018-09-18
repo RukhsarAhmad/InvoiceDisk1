@@ -15,9 +15,9 @@ namespace InvoiceDisk1.Controllers
             return View();
         }
 
-        public ActionResult Index1()
+        public ActionResult Index21()
         {
-            ViewBag.Title = "Home Page New Changes";
+            ViewBag.Title = "Home Page";
 
             return View();
         }
